@@ -6,9 +6,6 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "conflict": {
-        "fzaninotto/faker": "*"
-    },
     "autoload": {
         "psr-0": {
             "Faker": "src/"
